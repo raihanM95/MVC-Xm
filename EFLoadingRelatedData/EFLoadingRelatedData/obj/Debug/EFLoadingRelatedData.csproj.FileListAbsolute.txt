@@ -1,0 +1,16 @@
+C:\Phase 2\Batch 4\Day25\EFLoadingRelatedData\EFLoadingRelatedData\bin\Debug\EFLoadingRelatedData.exe.config
+C:\Phase 2\Batch 4\Day25\EFLoadingRelatedData\EFLoadingRelatedData\bin\Debug\EFLoadingRelatedData.exe
+C:\Phase 2\Batch 4\Day25\EFLoadingRelatedData\EFLoadingRelatedData\bin\Debug\EFLoadingRelatedData.pdb
+C:\Phase 2\Batch 4\Day25\EFLoadingRelatedData\EFLoadingRelatedData\bin\Debug\EntityFramework.dll
+C:\Phase 2\Batch 4\Day25\EFLoadingRelatedData\EFLoadingRelatedData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Phase 2\Batch 4\Day25\EFLoadingRelatedData\EFLoadingRelatedData\bin\Debug\EntityFramework.xml
+C:\Phase 2\Batch 4\Day25\EFLoadingRelatedData\EFLoadingRelatedData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Phase 2\Batch 4\Day25\EFLoadingRelatedData\EFLoadingRelatedData\obj\Debug\EFLoadingRelatedData.csprojAssemblyReference.cache
+C:\Phase 2\Batch 4\Day25\EFLoadingRelatedData\EFLoadingRelatedData\obj\Debug\EFLoadingRelatedData.csproj.CoreCompileInputs.cache
+C:\Phase 2\Batch 4\Day25\EFLoadingRelatedData\EFLoadingRelatedData\obj\Debug\EFLoadingRelatedData.csproj.CopyComplete
+C:\Phase 2\Batch 4\Day25\EFLoadingRelatedData\EFLoadingRelatedData\obj\Debug\EFLoadingRelatedData.exe
+C:\Phase 2\Batch 4\Day25\EFLoadingRelatedData\EFLoadingRelatedData\obj\Debug\EFLoadingRelatedData.pdb
+C:\Phase 2\Batch 4\Day25\EFLoadingRelatedData\EFLoadingRelatedData\obj\Debug\EFLoadingRelatedData.Migrations.Initial.resources
+C:\Phase 2\Batch 4\Day25\EFLoadingRelatedData\EFLoadingRelatedData\obj\Debug\EFLoadingRelatedData.csproj.GenerateResource.cache
+C:\Phase 2\Batch 4\Day25\EFLoadingRelatedData\EFLoadingRelatedData\obj\Debug\EFLoadingRelatedData.Migrations.Student_DepartmentId_Added.resources
+C:\Phase 2\Batch 4\Day25\EFLoadingRelatedData\EFLoadingRelatedData\obj\Debug\EFLoadingRelatedData.Migrations.Student_IsActive_Added.resources

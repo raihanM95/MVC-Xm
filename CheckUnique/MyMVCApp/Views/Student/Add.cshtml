@@ -1,0 +1,125 @@
+﻿@model  MyMVCApp.Models.StudentAddVM
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div>
+    <form class="form-horizontal" method="POST">
+        <div class="contetainer">
+            <div class="row">
+                <div class="col-lg-3"></div>
+                <div class="col-lg-6">
+                    @if (ViewBag.SuccessMsg != null)
+                    {
+                        <h3 style="font-family: cursive; color: cadetblue">@ViewBag.SuccessMsg</h3>
+                    }
+                    @if (ViewBag.ErrorMsg != null)
+                    {
+                        <h3 style="font-family: cursive; color: brown">@ViewBag.ErrorMsg</h3>
+                    }
+                </div>
+                <div class="col-lg-3"></div>
+
+            </div>
+            <div class="row">
+                <div class="col-lg-3"></div>
+                <div class="col-lg-6">
+                    <div class="form-group">
+                        @*<label class="control-label col-sm-2" for="Name">Name:</label>*@
+                        @Html.LabelFor(c => c.Name, null, new { @class = "control-label col-sm-2" })
+                        <div class="col-sm-10">
+                            @*<input type="text" class="form-control" id="Name" name="Name" placeholder="Name">*@
+                            @Html.TextBoxFor(c => c.Name, null, new { @class = "form-control", placeholder = "Name" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @*<label class="control-label col-sm-2" for="Address">Address:</label>*@
+                        @Html.LabelFor(c => c.Address, null, new { @class = "control-label col-sm-2" })
+                        <div class="col-sm-10">
+                            @*<input type="text" class="form-control" id="Address" name="Address" placeholder="Address">*@
+                            @Html.TextBoxFor(c => c.Address, null, new { @class = "form-control", placeholder = "Address" })
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        @*<label class="control-label col-sm-2" for="Address">Address:</label>*@
+                        @Html.LabelFor(c => c.DistrictID, null, new { @class = "control-label col-sm-2" })
+                        <div class="col-sm-10">
+                            @*<input type="text" class="form-control" id="Address" name="Address" placeholder="Address">*@
+
+                            @Html.DropDownListFor(c => c.DistrictID, Model.DistrictList, "--Select--", new { @class = "form-control" })
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        @*<label class="control-label col-sm-2" for="Contact">Contact:</label>*@
+                        @Html.LabelFor(c => c.Contact, null, new { @class = "control-label col-sm-2" })
+                        <div class="col-sm-10">
+                            @*<input type="text" class="form-control" id="Contact" name="Contact" placeholder="Contact">*@
+                            @Html.TextBoxFor(c => c.Contact, null, new { @class = "form-control", placeholder = "Contact" })
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        @*<label class="control-label col-sm-2" for="Age">Age:</label>*@
+                        @Html.LabelFor(c => c.Age, null, new { @class = "control-label col-sm-2" })
+                        <div class="col-sm-10">
+                            @*<input type="text" class="form-control" id="Age" name="Age" placeholder="Age">*@
+                            @Html.TextBoxFor(c => c.Age, null, new { @class = "form-control", placeholder = "Age" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-sm-offset-2 col-sm-10">
+                            <button id ="save" type="submit" class="btn btn-success" value="Save">Save</button>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-lg-3"></div>
+            </div>
+
+        </div>
+
+    </form>
+</div>
+
+
+@section Scripts{
+
+    <script>
+
+        $('#Address').focus(() => {
+
+            var name = $('#Name').val();
+
+            var jsonData = { name: name };
+
+            $.ajax(
+                {
+                    url: "/student/getbyname",
+                    type: "POST",
+                    data: jsonData,
+                    success: (student) => {
+                        
+                        if (student.length != 0) {
+                            alert("Name already exists");
+                            $('#Address').blur();
+
+                        }
+
+                       
+                        
+
+                    },
+                    error: (response) => {
+
+                    }
+
+                });
+
+
+        });   
+
+    </script>
+
+
+}

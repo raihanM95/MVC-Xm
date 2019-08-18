@@ -1,0 +1,127 @@
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\MyMVCApp.DatabaseContext.dll.config
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\MyMVCApp.DatabaseContext.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\MyMVCApp.DatabaseContext.pdb
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\MyMVCApp.Models.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\MyMVCApp.Models.pdb
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.csprojAssemblyReference.cache
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.csproj.CoreCompileInputs.cache
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.csproj.CopyComplete
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.pdb
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\MyMVCApp.DatabaseContext.dll.config
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\MyMVCApp.DatabaseContext.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\MyMVCApp.DatabaseContext.pdb
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\MyMVCApp.Models.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\MyMVCApp.Models.pdb
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.csprojAssemblyReference.cache
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.csproj.CoreCompileInputs.cache
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.csproj.CopyComplete
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.pdb
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\MyMVCApp.DatabaseContext.dll.config
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\MyMVCApp.DatabaseContext.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\MyMVCApp.DatabaseContext.pdb
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\MyMVCApp.Models.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\MyMVCApp.Models.pdb
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.csprojAssemblyReference.cache
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.csproj.CoreCompileInputs.cache
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.csproj.CopyComplete
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.pdb
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.Migrations.ValidationAddedtoStudent.resources
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.csproj.GenerateResource.cache
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\MyMVCApp.DatabaseContext.dll.config
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\MyMVCApp.DatabaseContext.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\MyMVCApp.DatabaseContext.pdb
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\MyMVCApp.Models.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\MyMVCApp.Models.pdb
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.csprojAssemblyReference.cache
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.Migrations.ValidationAddedtoStudent.resources
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.csproj.GenerateResource.cache
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.csproj.CoreCompileInputs.cache
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.csproj.CopyComplete
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.pdb
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\MyMVCApp.DatabaseContext.dll.config
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\MyMVCApp.DatabaseContext.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\MyMVCApp.DatabaseContext.pdb
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\MyMVCApp.Models.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\MyMVCApp.Models.pdb
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.csprojAssemblyReference.cache
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.csproj.CoreCompileInputs.cache
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.csproj.CopyComplete
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.pdb
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.Migrations.Initial.resources
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.csproj.GenerateResource.cache
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.Migrations.StudentModified.resources
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\MyMVCApp.DatabaseContext.dll.config
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\MyMVCApp.DatabaseContext.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\MyMVCApp.DatabaseContext.pdb
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\MyMVCApp.Models.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\MyMVCApp.Models.pdb
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.csprojAssemblyReference.cache
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.Migrations.Initial.resources
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.Migrations.StudentModified.resources
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.csproj.GenerateResource.cache
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.csproj.CoreCompileInputs.cache
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.csproj.CopyComplete
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.pdb
+C:\Phase 2\Batch 4\Day30\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\MyMVCApp.DatabaseContext.dll.config
+C:\Phase 2\Batch 4\Day30\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\MyMVCApp.DatabaseContext.dll
+C:\Phase 2\Batch 4\Day30\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\MyMVCApp.DatabaseContext.pdb
+C:\Phase 2\Batch 4\Day30\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Phase 2\Batch 4\Day30\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Phase 2\Batch 4\Day30\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\MyMVCApp.Models.dll
+C:\Phase 2\Batch 4\Day30\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\MyMVCApp.Models.pdb
+C:\Phase 2\Batch 4\Day30\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Phase 2\Batch 4\Day30\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Phase 2\Batch 4\Day30\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.csprojAssemblyReference.cache
+C:\Phase 2\Batch 4\Day30\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.Migrations.Initial.resources
+C:\Phase 2\Batch 4\Day30\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.Migrations.StudentModified.resources
+C:\Phase 2\Batch 4\Day30\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.csproj.GenerateResource.cache
+C:\Phase 2\Batch 4\Day30\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.csproj.CoreCompileInputs.cache
+C:\Phase 2\Batch 4\Day30\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.csproj.CopyComplete
+C:\Phase 2\Batch 4\Day30\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.dll
+C:\Phase 2\Batch 4\Day30\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.pdb
+E:\251079\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\MyMVCApp.DatabaseContext.dll.config
+E:\251079\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\MyMVCApp.DatabaseContext.dll
+E:\251079\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\MyMVCApp.DatabaseContext.pdb
+E:\251079\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\EntityFramework.dll
+E:\251079\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+E:\251079\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\MyMVCApp.Models.dll
+E:\251079\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\MyMVCApp.Models.pdb
+E:\251079\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\EntityFramework.xml
+E:\251079\MyMVCApp\MyMVCApp.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+E:\251079\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.csprojAssemblyReference.cache
+E:\251079\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.csproj.CoreCompileInputs.cache
+E:\251079\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.csproj.CopyComplete
+E:\251079\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.dll
+E:\251079\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.pdb
+E:\251079\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.Migrations.DB_Created.resources
+E:\251079\MyMVCApp\MyMVCApp.DatabaseContext\obj\Debug\MyMVCApp.DatabaseContext.csproj.GenerateResource.cache

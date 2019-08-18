@@ -1,0 +1,102 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="form-horizontal">
+    <div class="form-group">
+        <label for="District" class="control-label col-md-2">District</label>
+        <div class="col-md-10">
+            @Html.DropDownList("District", null, new { @class = "form-control" })
+
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="Student" class="control-label col-md-2">Student</label>
+        <div class="col-md-10">
+            <select id="Student" name="Student" class="form-control">
+                <option value="">Select...</option>
+
+            </select>
+        </div>
+    </div>
+
+    <div class="form-group">
+        
+        <div class="col-md-10 col-offset-8" id="divStudentInfo">
+
+        </div>
+
+    </div>
+</div>
+
+@section Scripts{
+    <script>
+
+        $('#District').change(() => {
+
+            var districtId = $('#District').val();
+
+            var jsonData = { districtId: districtId };
+
+            $.ajax(
+                {
+                    url: "/student/getbydistrict",
+                    type: "POST",
+                    data: jsonData,
+                    success: (students) => {
+                        $('#divStudentInfo').empty();
+                        if (students === undefined || students.length == 0) {
+                            $('#divStudentInfo').append('No Student Found!');
+                        }
+
+                        $('#Student').empty();
+
+                        $('#Student').append("<option value=''>Select</option>");
+
+
+                        $.each(students, (index, student) => {
+
+                            var option = "<option value='" + student.ID + "'>" + student.Name + "</option>";
+
+                            $('#Student').append(option);
+
+                        }
+                        );
+
+                    },
+                    error: (response) => {
+
+                    }
+
+                });
+
+
+        });
+
+
+        $('#Student').change(() => {
+
+            var studentId = $('#Student').val();
+
+            $.ajax({
+                url: "/student/getstudentpartial",
+                type: "GET",
+                data: { studentId: studentId },
+                success: (studentPartial) => {
+
+                    $('#divStudentInfo').html(studentPartial);
+
+                },
+                error: (response) => {
+
+                }
+
+            });
+
+        });
+
+    </script>
+}
+

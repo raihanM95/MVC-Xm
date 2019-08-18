@@ -1,0 +1,77 @@
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp.Models\bin\Debug\MyMVCApp.Models.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp.Models\bin\Debug\MyMVCApp.Models.pdb
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp.Models\obj\Debug\MyMVCApp.Models.csproj.CoreCompileInputs.cache
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp.Models\obj\Debug\MyMVCApp.Models.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp.Models\obj\Debug\MyMVCApp.Models.pdb
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp.Models\bin\Debug\MyMVCApp.Models.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp.Models\bin\Debug\MyMVCApp.Models.pdb
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp.Models\obj\Debug\MyMVCApp.Models.csprojAssemblyReference.cache
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp.Models\obj\Debug\MyMVCApp.Models.csproj.CoreCompileInputs.cache
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp.Models\obj\Debug\MyMVCApp.Models.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp.Models\obj\Debug\MyMVCApp.Models.pdb
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp.Models\bin\Debug\MyMVCApp.Models.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp.Models\bin\Debug\MyMVCApp.Models.pdb
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp.Models\obj\Debug\MyMVCApp.Models.csproj.CoreCompileInputs.cache
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp.Models\obj\Debug\MyMVCApp.Models.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp.Models\obj\Debug\MyMVCApp.Models.pdb
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp.Models\obj\Debug\MyMVCApp.Models.csprojAssemblyReference.cache
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp.Models\bin\Debug\MyMVCApp.Models.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp.Models\bin\Debug\MyMVCApp.Models.pdb
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp.Models\obj\Debug\MyMVCApp.Models.csprojAssemblyReference.cache
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp.Models\obj\Debug\MyMVCApp.Models.csproj.CoreCompileInputs.cache
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp.Models\obj\Debug\MyMVCApp.Models.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp.Models\obj\Debug\MyMVCApp.Models.pdb
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp.Models\bin\Debug\MyMVCApp.Models.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp.Models\bin\Debug\MyMVCApp.Models.pdb
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp.Models\obj\Debug\MyMVCApp.Models.csprojAssemblyReference.cache
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp.Models\obj\Debug\MyMVCApp.Models.csproj.CoreCompileInputs.cache
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp.Models\obj\Debug\MyMVCApp.Models.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp.Models\obj\Debug\MyMVCApp.Models.pdb
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp.Models\bin\Debug\MyMVCApp.Models.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp.Models\bin\Debug\MyMVCApp.Models.pdb
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp.Models\bin\Debug\System.Web.Mvc.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp.Models\bin\Debug\System.Web.WebPages.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp.Models\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp.Models\bin\Debug\System.Web.Razor.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp.Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp.Models\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp.Models\bin\Debug\System.Web.Mvc.xml
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp.Models\bin\Debug\System.Web.WebPages.xml
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp.Models\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp.Models\bin\Debug\System.Web.Razor.xml
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp.Models\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp.Models\obj\Debug\MyMVCApp.Models.csprojAssemblyReference.cache
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp.Models\obj\Debug\MyMVCApp.Models.csproj.CoreCompileInputs.cache
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp.Models\obj\Debug\MyMVCApp.Models.csproj.CopyComplete
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp.Models\obj\Debug\MyMVCApp.Models.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp.Models\obj\Debug\MyMVCApp.Models.pdb
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp.Models\bin\Debug\System.Web.Mvc.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp.Models\bin\Debug\System.Web.WebPages.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp.Models\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp.Models\bin\Debug\System.Web.Razor.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp.Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp.Models\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp.Models\bin\Debug\System.Web.Mvc.xml
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp.Models\bin\Debug\System.Web.WebPages.xml
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp.Models\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp.Models\bin\Debug\System.Web.Razor.xml
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp.Models\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp.Models\obj\Debug\MyMVCApp.Models.csproj.CopyComplete
+C:\Phase 2\Batch 4\Day30\MyMVCApp\MyMVCApp.Models\bin\Debug\MyMVCApp.Models.dll
+C:\Phase 2\Batch 4\Day30\MyMVCApp\MyMVCApp.Models\bin\Debug\MyMVCApp.Models.pdb
+C:\Phase 2\Batch 4\Day30\MyMVCApp\MyMVCApp.Models\bin\Debug\System.Web.Mvc.dll
+C:\Phase 2\Batch 4\Day30\MyMVCApp\MyMVCApp.Models\bin\Debug\System.Web.WebPages.dll
+C:\Phase 2\Batch 4\Day30\MyMVCApp\MyMVCApp.Models\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Phase 2\Batch 4\Day30\MyMVCApp\MyMVCApp.Models\bin\Debug\System.Web.Razor.dll
+C:\Phase 2\Batch 4\Day30\MyMVCApp\MyMVCApp.Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Phase 2\Batch 4\Day30\MyMVCApp\MyMVCApp.Models\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Phase 2\Batch 4\Day30\MyMVCApp\MyMVCApp.Models\bin\Debug\System.Web.Mvc.xml
+C:\Phase 2\Batch 4\Day30\MyMVCApp\MyMVCApp.Models\bin\Debug\System.Web.WebPages.xml
+C:\Phase 2\Batch 4\Day30\MyMVCApp\MyMVCApp.Models\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Phase 2\Batch 4\Day30\MyMVCApp\MyMVCApp.Models\bin\Debug\System.Web.Razor.xml
+C:\Phase 2\Batch 4\Day30\MyMVCApp\MyMVCApp.Models\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Phase 2\Batch 4\Day30\MyMVCApp\MyMVCApp.Models\obj\Debug\MyMVCApp.Models.csprojAssemblyReference.cache
+C:\Phase 2\Batch 4\Day30\MyMVCApp\MyMVCApp.Models\obj\Debug\MyMVCApp.Models.csproj.CoreCompileInputs.cache
+C:\Phase 2\Batch 4\Day30\MyMVCApp\MyMVCApp.Models\obj\Debug\MyMVCApp.Models.csproj.CopyComplete
+C:\Phase 2\Batch 4\Day30\MyMVCApp\MyMVCApp.Models\obj\Debug\MyMVCApp.Models.dll
+C:\Phase 2\Batch 4\Day30\MyMVCApp\MyMVCApp.Models\obj\Debug\MyMVCApp.Models.pdb

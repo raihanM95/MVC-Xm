@@ -1,0 +1,137 @@
+﻿@model MyMVCApp.Models.StudentAddVM
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Show</title>
+    <style>
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+        }
+
+        td, th {
+            border: 1px solid black;
+            text-align: center;
+            padding: 2px;
+        }
+
+        tr:nth-child(even) {
+            background-color: antiquewhite;
+        }
+    </style>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    <div>
+        <form class="form-horizontal" method="POST">
+
+            <div class="row">
+                
+                <div class="col-lg-6">
+                    <div class="form-group">
+                        @*<label class="control-label col-sm-2" for="Name">Name:</label>*@
+                        @Html.LabelFor(c => c.Name, null, new { @class = "control-label col-sm-2" })
+                        <div class="col-sm-10">
+                            @*<input type="text" class="form-control" id="Name" name="Name" placeholder="Name">*@
+                            @Html.TextBoxFor(c => c.Name, null, new { @class = "form-control", placeholder = "Name" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @*<label class="control-label col-sm-2" for="Address">Address:</label>*@
+                        @Html.LabelFor(c => c.Address, null, new { @class = "control-label col-sm-2" })
+                        <div class="col-sm-10">
+                            @*<input type="text" class="form-control" id="Address" name="Address" placeholder="Address">*@
+                            @Html.TextBoxFor(c => c.Address, null, new { @class = "form-control", placeholder = "Address" })
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        @*<label class="control-label col-sm-2" for="Address">Address:</label>*@
+                        @Html.LabelFor(c => c.DistrictID, null, new { @class = "control-label col-sm-2" })
+                        <div class="col-sm-10">
+                            @*<input type="text" class="form-control" id="Address" name="Address" placeholder="Address">*@
+
+                            @Html.DropDownListFor(c => c.DistrictID, Model.DistrictList, "--Select--", new { @class = "form-control" })
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        @*<label class="control-label col-sm-2" for="Contact">Contact:</label>*@
+                        @Html.LabelFor(c => c.Contact, null, new { @class = "control-label col-sm-2" })
+                        <div class="col-sm-10">
+                            @*<input type="text" class="form-control" id="Contact" name="Contact" placeholder="Contact">*@
+                            @Html.TextBoxFor(c => c.Contact, null, new { @class = "form-control", placeholder = "Contact" })
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        @*<label class="control-label col-sm-2" for="Age">Age:</label>*@
+                        @Html.LabelFor(c => c.Age, null, new { @class = "control-label col-sm-2" })
+                        <div class="col-sm-10">
+                            @*<input type="text" class="form-control" id="Age" name="Age" placeholder="Age">*@
+                            @Html.TextBoxFor(c => c.Age, null, new { @class = "form-control", placeholder = "Age" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-sm-offset-2 col-sm-10">
+                            <button type="submit" class="btn btn-success" value="Search">Search</button>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-lg-3">
+                    <table class="table table-striped table-bordered table-hover">
+                        <thead>
+                            <tr>
+                                <th>Sl.</th>
+                                <th>Name</th>
+                                <th>Address</th>
+                                <th>District</th>
+                                <th>Contact</th>
+                                <th>Age</th>
+                                <th>Action</th>
+
+                            </tr>
+                        </thead>
+                        <tbody>
+
+                            @if (Model != null && Model.Students != null && Model.Students.Count > 0)
+                            {
+                                int i = 0;
+                                foreach (var student in Model.Students)
+                                {
+                                    <tr>
+                                        <td>@(i = i + 1)</td>
+                                        <td>@student.Name</td>
+                                        <td>@student.Address</td>
+                                        <td>@student.District.Name</td>
+                                        <td>@student.Contact</td>
+                                        <td>@student.Age</td>
+                                        <td>Edit | Delete</td>
+                                        <td>@{
+                                                Html.RenderPartial("Student/_StudentDetail", student);
+                                            }</td>
+
+                                    </tr>
+                                }
+
+                            }
+
+
+                        </tbody>
+                    </table>
+
+                </div>
+                
+            </div>
+
+        </form>
+
+    </div>
+</body>
+</html>

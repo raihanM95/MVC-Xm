@@ -1,0 +1,837 @@
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\MyMVCApp.dll.config
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\MyMVCApp.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\MyMVCApp.pdb
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\csc.exe
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\csc.exe.config
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\csc.rsp
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\csi.exe
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\csi.exe.config
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\csi.rsp
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\System.AppContext.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\System.Console.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.Compression.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.Pipes.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Claims.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\System.ValueTuple.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\System.Xml.XPath.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\vbc.exe
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\vbc.exe.config
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\vbc.rsp
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\VBCSCompiler.exe
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\MyMVCApp.BLL.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\MyMVCApp.Models.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\System.Web.Helpers.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\System.Web.Mvc.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\System.Web.Razor.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.Deployment.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.Razor.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\MyMVCApp.Repository.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\MyMVCApp.BLL.pdb
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\MyMVCApp.Models.pdb
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\System.Web.Razor.xml
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.xml
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.Deployment.xml
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.Razor.xml
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\System.Web.Helpers.xml
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\System.Web.Mvc.xml
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\bin\MyMVCApp.Repository.pdb
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.csprojAssemblyReference.cache
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.csproj.CoreCompileInputs.cache
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.csproj.CopyComplete
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.pdb
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\MyMVCApp.dll.config
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\MyMVCApp.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\MyMVCApp.pdb
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\csc.exe
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\csc.exe.config
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\csc.rsp
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\csi.exe
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\csi.exe.config
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\csi.rsp
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\System.AppContext.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\System.Console.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.Compression.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.Pipes.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Claims.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\System.ValueTuple.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\System.Xml.XPath.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\vbc.exe
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\vbc.exe.config
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\vbc.rsp
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\VBCSCompiler.exe
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\MyMVCApp.BLL.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\MyMVCApp.Models.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\System.Web.Helpers.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\System.Web.Mvc.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\System.Web.Razor.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.Deployment.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.Razor.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\MyMVCApp.Repository.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\MyMVCApp.DatabaseContext.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\EntityFramework.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\MyMVCApp.BLL.pdb
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\MyMVCApp.Models.pdb
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\System.Web.Razor.xml
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.xml
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.Deployment.xml
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.Razor.xml
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\System.Web.Helpers.xml
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\System.Web.Mvc.xml
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\MyMVCApp.Repository.pdb
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\MyMVCApp.Repository.dll.config
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\MyMVCApp.DatabaseContext.pdb
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\MyMVCApp.DatabaseContext.dll.config
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\EntityFramework.xml
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.csprojAssemblyReference.cache
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.csproj.CoreCompileInputs.cache
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.csproj.CopyComplete
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.pdb
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\EntityFramework.SqlServer.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp\bin\EntityFramework.SqlServer.xml
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\MyMVCApp.dll.config
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\MyMVCApp.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\MyMVCApp.pdb
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\csc.exe
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\csc.exe.config
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\csc.rsp
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\csi.exe
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\csi.exe.config
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\csi.rsp
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\System.AppContext.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\System.Console.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.Compression.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.Pipes.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Claims.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\System.ValueTuple.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\System.Xml.XPath.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\vbc.exe
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\vbc.exe.config
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\vbc.rsp
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\VBCSCompiler.exe
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\EntityFramework.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\EntityFramework.SqlServer.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\MyMVCApp.BLL.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\MyMVCApp.Models.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\System.Web.Helpers.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\System.Web.Mvc.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\System.Web.Razor.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.Deployment.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.Razor.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\MyMVCApp.Repository.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\MyMVCApp.DatabaseContext.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\MyMVCApp.BLL.pdb
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\MyMVCApp.Models.pdb
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\EntityFramework.xml
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\EntityFramework.SqlServer.xml
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\System.Web.Razor.xml
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.xml
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.Deployment.xml
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.Razor.xml
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\System.Web.Helpers.xml
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\System.Web.Mvc.xml
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\MyMVCApp.Repository.pdb
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\MyMVCApp.Repository.dll.config
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\MyMVCApp.DatabaseContext.pdb
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\bin\MyMVCApp.DatabaseContext.dll.config
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.csprojAssemblyReference.cache
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.csproj.CoreCompileInputs.cache
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.csproj.CopyComplete
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.pdb
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\MyMVCApp.dll.config
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\MyMVCApp.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\MyMVCApp.pdb
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\csc.exe
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\csc.exe.config
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\csc.rsp
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\csi.exe
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\csi.exe.config
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\csi.rsp
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\System.AppContext.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\System.Console.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.Compression.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.Pipes.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Claims.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\System.ValueTuple.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\System.Xml.XPath.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\vbc.exe
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\vbc.exe.config
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\vbc.rsp
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\VBCSCompiler.exe
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\EntityFramework.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\EntityFramework.SqlServer.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\MyMVCApp.BLL.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\MyMVCApp.Models.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\System.Web.Helpers.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\System.Web.Mvc.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\System.Web.Razor.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.Deployment.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.Razor.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\MyMVCApp.Repository.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\MyMVCApp.DatabaseContext.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\MyMVCApp.BLL.pdb
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\MyMVCApp.Models.pdb
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\EntityFramework.xml
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\EntityFramework.SqlServer.xml
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\System.Web.Razor.xml
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.xml
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.Deployment.xml
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.Razor.xml
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\System.Web.Helpers.xml
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\System.Web.Mvc.xml
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\MyMVCApp.Repository.pdb
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\MyMVCApp.Repository.dll.config
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\MyMVCApp.DatabaseContext.pdb
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\bin\MyMVCApp.DatabaseContext.dll.config
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.csprojAssemblyReference.cache
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.csproj.CoreCompileInputs.cache
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.csproj.CopyComplete
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.dll
+C:\Phase 2\Batch 3\Day27\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.pdb
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\MyMVCApp.dll.config
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\MyMVCApp.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\MyMVCApp.pdb
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\csc.exe
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\csc.exe.config
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\csc.rsp
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\csi.exe
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\csi.exe.config
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\csi.rsp
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\System.AppContext.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\System.Console.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.Compression.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.Pipes.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Claims.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\System.ValueTuple.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\System.Xml.XPath.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\vbc.exe
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\vbc.exe.config
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\vbc.rsp
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\VBCSCompiler.exe
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\EntityFramework.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\EntityFramework.SqlServer.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\MyMVCApp.BLL.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\MyMVCApp.Models.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\System.Web.Helpers.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\System.Web.Mvc.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\System.Web.Razor.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.Deployment.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.Razor.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\MyMVCApp.Repository.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\MyMVCApp.DatabaseContext.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\MyMVCApp.BLL.pdb
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\MyMVCApp.Models.pdb
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\EntityFramework.xml
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\EntityFramework.SqlServer.xml
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\System.Web.Razor.xml
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.xml
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.Deployment.xml
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.Razor.xml
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\System.Web.Helpers.xml
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\System.Web.Mvc.xml
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\MyMVCApp.Repository.pdb
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\MyMVCApp.Repository.dll.config
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\MyMVCApp.DatabaseContext.pdb
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\bin\MyMVCApp.DatabaseContext.dll.config
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.csprojAssemblyReference.cache
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.csproj.CoreCompileInputs.cache
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.csproj.CopyComplete
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.dll
+C:\Phase 2\Batch 3\Day28\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.pdb
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\MyMVCApp.dll.config
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\MyMVCApp.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\MyMVCApp.pdb
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\csc.exe
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\csc.exe.config
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\csc.rsp
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\csi.exe
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\csi.exe.config
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\csi.rsp
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\System.AppContext.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\System.Console.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.Compression.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.Pipes.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Claims.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\System.ValueTuple.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\System.Xml.XPath.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\vbc.exe
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\vbc.exe.config
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\vbc.rsp
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\VBCSCompiler.exe
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\EntityFramework.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\EntityFramework.SqlServer.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\MyMVCApp.BLL.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\MyMVCApp.Models.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\System.Web.Helpers.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\System.Web.Mvc.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\System.Web.Razor.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.Deployment.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.Razor.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\MyMVCApp.Repository.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\MyMVCApp.DatabaseContext.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\MyMVCApp.BLL.pdb
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\MyMVCApp.Models.pdb
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\EntityFramework.xml
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\EntityFramework.SqlServer.xml
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\System.Web.Razor.xml
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.xml
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.Deployment.xml
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.Razor.xml
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\System.Web.Helpers.xml
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\System.Web.Mvc.xml
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\MyMVCApp.Repository.pdb
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\MyMVCApp.Repository.dll.config
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\MyMVCApp.DatabaseContext.pdb
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\MyMVCApp.DatabaseContext.dll.config
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.csprojAssemblyReference.cache
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.csproj.CoreCompileInputs.cache
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.csproj.CopyComplete
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.pdb
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\MyMVCApp.dll.config
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\MyMVCApp.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\MyMVCApp.pdb
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\csc.exe
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\csc.exe.config
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\csc.rsp
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\csi.exe
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\csi.exe.config
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\csi.rsp
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\System.AppContext.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\System.Console.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.Compression.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.Pipes.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Claims.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\System.ValueTuple.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\System.Xml.XPath.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\vbc.exe
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\vbc.exe.config
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\vbc.rsp
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\VBCSCompiler.exe
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\EntityFramework.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\EntityFramework.SqlServer.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\MyMVCApp.BLL.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\MyMVCApp.Models.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\System.Web.Helpers.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\System.Web.Mvc.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\System.Web.Razor.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.Deployment.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.Razor.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\MyMVCApp.Repository.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\MyMVCApp.DatabaseContext.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\MyMVCApp.BLL.pdb
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\MyMVCApp.Models.pdb
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\EntityFramework.xml
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\EntityFramework.SqlServer.xml
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\System.Web.Razor.xml
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.xml
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.Deployment.xml
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.Razor.xml
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\System.Web.Helpers.xml
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\System.Web.Mvc.xml
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\MyMVCApp.Repository.pdb
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\MyMVCApp.Repository.dll.config
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\MyMVCApp.DatabaseContext.pdb
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\MyMVCApp.DatabaseContext.dll.config
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.csprojAssemblyReference.cache
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.csproj.CoreCompileInputs.cache
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.csproj.CopyComplete
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.pdb
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\AutoMapper.dll
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\AutoMapper.pdb
+C:\Phase 2\Batch 3\Day29\MyMVCApp\MyMVCApp\bin\AutoMapper.xml
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\AutoMapper.dll
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\AutoMapper.pdb
+C:\Phase 2\Temp\MyMVCApp\MyMVCApp\bin\AutoMapper.xml
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\MyMVCApp.dll.config
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\MyMVCApp.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\MyMVCApp.pdb
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\csc.exe
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\csc.exe.config
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\csc.rsp
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\csi.exe
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\csi.exe.config
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\csi.rsp
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.AppContext.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.Console.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.Compression.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.Pipes.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Claims.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.ValueTuple.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.Xml.XPath.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\vbc.exe
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\vbc.exe.config
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\vbc.rsp
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\VBCSCompiler.exe
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\AutoMapper.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\EntityFramework.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\EntityFramework.SqlServer.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\MyMVCApp.BLL.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\MyMVCApp.Models.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\System.Web.Helpers.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\System.Web.Mvc.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\System.Web.Razor.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.Deployment.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.Razor.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\MyMVCApp.Repository.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\MyMVCApp.DatabaseContext.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\MyMVCApp.BLL.pdb
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\MyMVCApp.Models.pdb
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\AutoMapper.pdb
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\AutoMapper.xml
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\EntityFramework.xml
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\EntityFramework.SqlServer.xml
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\System.Web.Razor.xml
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.xml
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.Deployment.xml
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.Razor.xml
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\System.Web.Helpers.xml
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\System.Web.Mvc.xml
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\MyMVCApp.Repository.pdb
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\MyMVCApp.Repository.dll.config
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\MyMVCApp.DatabaseContext.pdb
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\bin\MyMVCApp.DatabaseContext.dll.config
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.csprojAssemblyReference.cache
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.csproj.CoreCompileInputs.cache
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.csproj.CopyComplete
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.dll
+C:\Phase 2\Batch 3\Day30\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.pdb
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\MyMVCApp.dll.config
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\MyMVCApp.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\MyMVCApp.pdb
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\csc.exe
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\csc.exe.config
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\csc.rsp
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\csi.exe
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\csi.exe.config
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\csi.rsp
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.AppContext.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.Collections.Immutable.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.Console.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.Compression.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.FileSystem.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.Pipes.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.Reflection.Metadata.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.AccessControl.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Claims.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Principal.Windows.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.ValueTuple.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.Xml.XPath.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\vbc.exe
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\vbc.exe.config
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\vbc.rsp
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\VBCSCompiler.exe
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\roslyn\VBCSCompiler.exe.config
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\AutoMapper.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\EntityFramework.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\EntityFramework.SqlServer.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\Microsoft.Web.Infrastructure.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\MyMVCApp.BLL.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\MyMVCApp.Models.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\System.Web.Helpers.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\System.Web.Mvc.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\System.Web.Razor.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.Deployment.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.Razor.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\MyMVCApp.Repository.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\MyMVCApp.DatabaseContext.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\MyMVCApp.BLL.pdb
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\MyMVCApp.Models.pdb
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\AutoMapper.pdb
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\AutoMapper.xml
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\EntityFramework.xml
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\EntityFramework.SqlServer.xml
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\System.Web.Razor.xml
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.xml
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.Deployment.xml
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.Razor.xml
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\System.Web.Helpers.xml
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\System.Web.Mvc.xml
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\MyMVCApp.Repository.pdb
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\MyMVCApp.Repository.dll.config
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\MyMVCApp.DatabaseContext.pdb
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\bin\MyMVCApp.DatabaseContext.dll.config
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.csprojAssemblyReference.cache
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.csproj.CoreCompileInputs.cache
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.csproj.CopyComplete
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.dll
+G:\Adjust\Day30\Day30\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.pdb
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\MyMVCApp.dll.config
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\MyMVCApp.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\MyMVCApp.pdb
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\csc.exe
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\csc.exe.config
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\csc.rsp
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\csi.exe
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\csi.exe.config
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\csi.rsp
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\System.AppContext.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\System.Console.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.Compression.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\System.IO.Pipes.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Claims.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\System.ValueTuple.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\System.Xml.XPath.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\vbc.exe
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\vbc.exe.config
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\vbc.rsp
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\VBCSCompiler.exe
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\AutoMapper.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\EntityFramework.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\EntityFramework.SqlServer.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\MyMVCApp.BLL.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\MyMVCApp.Models.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\System.Web.Helpers.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\System.Web.Mvc.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\System.Web.Razor.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.Deployment.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.Razor.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\MyMVCApp.Repository.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\MyMVCApp.DatabaseContext.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\MyMVCApp.BLL.pdb
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\MyMVCApp.Models.pdb
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\AutoMapper.pdb
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\AutoMapper.xml
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\EntityFramework.xml
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\EntityFramework.SqlServer.xml
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\System.Web.Razor.xml
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.xml
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.Deployment.xml
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\System.Web.Webpages.Razor.xml
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\System.Web.Helpers.xml
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\System.Web.Mvc.xml
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\MyMVCApp.Repository.pdb
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\MyMVCApp.Repository.dll.config
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\MyMVCApp.DatabaseContext.pdb
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\bin\MyMVCApp.DatabaseContext.dll.config
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.csprojAssemblyReference.cache
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.csproj.CoreCompileInputs.cache
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.csproj.CopyComplete
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.dll
+C:\Phase 2\Batch 4\Day31\MyMVCApp\MyMVCApp\obj\Debug\MyMVCApp.pdb
